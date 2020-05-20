@@ -1,0 +1,30 @@
+/*CSS*/
+
+input [type="radio"]{
+  margin-left: 10px;
+}
+.breadcrumb-item{
+  margin-top: 5px;
+}
+.tableCustomer{
+  float: right;
+  border-collapse: collapse;
+}
+
+.customer{
+  text-align: center;
+}
+table tr:nth-child(4n-1){
+  background-color: #d0d0d0;
+  color: black;
+} 
+table tr, th, td{
+  border-collapse: collapse;
+  border: 1px solid;  
+}
+table tr th{
+  background-color: #65dd55bd;
+  color: black;
+}
+
+  /*Thêm điểm CSS*/
